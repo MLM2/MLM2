@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mike McKeever
 
-🎯 **Agile Program Manager | AI Policy Specialist | Python Learner | Cleared TS/SCI CI Poly**
+🎯 **Agile Program Leader | AI Policy Specialist | Python Learner | Cleared TS/SCI CI Poly**
 
 Welcome to my GitHub! This is where I share my technical projects focused on responsible AI, data analysis, and project management. My goal is to bridge the gap between policy and technology — especially within the national security and intelligence domains.
 
