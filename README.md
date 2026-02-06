@@ -11,7 +11,7 @@ Welcome to my GitHub! This is where I share my technical projects focused on res
 - 🧠 **AI Risk Dashboard**: Demonstrating AI assurance workflows using MLflow, Fairlearn, and NIST AI RMF
 - 🧪 **Transformer Security Checker**: Evaluating robustness and vulnerabilities in LLMs using adversarial attacks
 - 📈 **Python Learning Sprint**: Data wrangling, geospatial mapping, time-series forecasting, and fairness evaluation
-- 🌐 **Policy+Tech Portfolio**: Combining my experience at ODNI, DIA, ICE, and DHS with modern data tools
+- 🌐 **Policy+Tech Portfolio**: Combining IC and DHS program experience with ODNI-issued AI governance frameworks
 
 ---
 
