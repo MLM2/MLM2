@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Mike McKeever
+Hi, I’m Mike McKeever  
 
-🎯 **Agile Program Leader | AI Policy Specialist | Python Learner | Cleared TS/SCI CI Poly**
+Technical Program Manager | National Security | Cloud & AI Delivery | TS/SCI CI Poly  
 
-Welcome to my GitHub! This is where I share my technical projects focused on responsible AI, data analysis, and project management. My goal is to bridge the gap between policy and technologyin public-sector and regulated environments.
+I’m a Technical Program Manager with 20+ years supporting Intelligence Community, DoD, and DHS missions across Agile delivery, PMO leadership, and secure system modernization.
+
+My current focus is on cloud architecture and technical program delivery, including AWS-based system design, secure data platforms, and DevSecOps-aligned workflows. I’m actively preparing for the AWS Solutions Architect – Associate certification and building hands-on projects that demonstrate architecture tradeoffs, scalability, and secure design patterns.
+
+This GitHub portfolio highlights work at the intersection of cloud, AI governance, and mission-oriented delivery in regulated and high-security environments.
+
+Recent work includes reference architectures for secure mission data platforms and cloud architecture tradeoff analysis.
 
 ---
 
@@ -11,7 +17,7 @@ Welcome to my GitHub! This is where I share my technical projects focused on res
 - 🧠 **AI Risk Dashboard**: Demonstrating AI assurance workflows using MLflow, Fairlearn, and NIST AI RMF
 - 🧪 **Transformer Security Checker**: Evaluating robustness and vulnerabilities in LLMs using adversarial attacks
 - 📈 **Python Learning Sprint**: Data wrangling, geospatial mapping, time-series forecasting, and fairness evaluation
-- 🌐 **Policy+Tech Portfolio**: Combining IC and DHS program experience with ODNI-issued AI governance frameworks
+- 🌐 **Cloud, AI & Policy Portfolio**: Combining IC and DHS program experience with secure cloud architecture, DevSecOps delivery, and AI governance frameworks
 
 ---
 
@@ -35,13 +41,13 @@ Welcome to my GitHub! This is where I share my technical projects focused on res
   - Scaled agile support to DHS I&A
 - PMP, CSM, SAFe Agilist certified
 - TS/SCI with CI Poly
-- Currently pursuing **Azure AI Fundamentals (AI-900), Security+**
+- Currently pursuing **AWS Solutions Architect – Associate (SAA)**
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [[LinkedIn](https://www.linkedin.com/in/mckeever-mike/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mckeever-mike/)
 - 💼 [Portfolio Website](#) _(Coming Soon)_
 - 📬 Reach me via email or DM for collaboration
 
