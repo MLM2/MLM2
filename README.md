@@ -26,7 +26,6 @@ Recent work includes reference architectures for secure mission data platforms a
 |--------|-------------|-------|
 | [AI-Risk-Dashboard](https://github.com/MLM2/ai-risk-dashboard) | Demo of responsible AI governance workflows | Python, MLflow, Fairlearn |
 | [Transformer-Security-Checks](https://github.com/MLM2/transformer-security-checks) | Demo of LLM adversarial testing | Python, TextAttack, Transformers |
-| [Python-Learning-Sprint](https://github.com/MLM2/python-learning-sprint) | Data visualization, forecasting, and geospatial mapping demos | Pandas, Plotly, GeoPandas |
 | [AI-Assurance-Policy-Assistant](https://github.com/MLM2/ai-assurance-policy-assistant) | GPT-based AI assurance Q&A with policy citations | LangChain, OpenAI, NIST RMF |
 
 ---
