@@ -2,11 +2,12 @@ Hi, I’m Mike McKeever
 
 Technical Program Manager | National Security | Cloud & AI Delivery | TS/SCI CI Poly  
 
-I’m a Technical Program Manager with 20+ years supporting Intelligence Community, DoD, and DHS missions across Agile delivery, PMO leadership, and secure system modernization.
+I’m a Technical Program Manager with 20+ years delivering mission-critical systems across the Intelligence Community, DoD, and DHS, specializing in secure system modernization, Agile delivery, and cross-agency program execution.
 
-My current focus is on cloud architecture and technical program delivery, including AWS-based system design, secure data platforms, and DevSecOps-aligned workflows. I’m actively preparing for the AWS Solutions Architect – Associate certification and building hands-on projects that demonstrate architecture tradeoffs, scalability, and secure design patterns.
+My current focus is on cloud architecture and technical program delivery, including AWS-based system design, secure data platforms, and DevSecOps-aligned workflows. I develop reference architectures and implementation prototypes to evaluate scalability, security, and mission alignment in regulated environments.
 
 This GitHub portfolio highlights work at the intersection of cloud, AI governance, and mission-oriented delivery in regulated and high-security environments.
+The portfolio emphasizes translation of mission workflows into cloud-native architectures, with a focus on security, scalability, and delivery in classified environments.
 
 Recent work includes reference architectures for secure mission data platforms and cloud architecture tradeoff analysis.
 
@@ -19,7 +20,11 @@ Recent work includes reference architectures for secure mission data platforms a
 - 🌐 **Cloud, AI & Policy Portfolio**: Combining IC and DHS program experience with secure cloud architecture, DevSecOps delivery, and AI governance frameworks
 
 ---
+## 🏗️ Cloud Architecture Portfolio
 
+- **Secure Data Pipeline (AWS)**: Reference architecture and implementation prototype for event-driven ingestion and processing using Amazon S3, AWS Lambda, and CloudWatch, aligned to Intelligence Community data workflows  
+- **Secure Cloud Architecture Tradeoffs**: Comparative analysis of design decisions across scalability, cost, and security in regulated and classified environments
+- 
 ## 📚 Featured Projects
 
 | Project | Description | Tools |
@@ -39,7 +44,7 @@ Recent work includes reference architectures for secure mission data platforms a
   - Scaled agile support to DHS I&A
 - PMP, CSM, SAFe Agilist certified
 - TS/SCI with CI Poly
-- Currently pursuing **AWS Solutions Architect – Associate (SAA)**
+- AWS Solutions Architect – Associate (in progress; hands-on architecture development underway)
 
 ---
 
