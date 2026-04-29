@@ -16,7 +16,6 @@ Recent work includes reference architectures for secure mission data platforms a
 
 - 🧠 **AI Risk Dashboard**: Demonstrating AI assurance workflows using MLflow, Fairlearn, and NIST AI RMF
 - 🧪 **Transformer Security Checker**: Evaluating robustness and vulnerabilities in LLMs using adversarial attacks
-- 📈 **Python Learning Sprint**: Data wrangling, geospatial mapping, time-series forecasting, and fairness evaluation
 - 🌐 **Cloud, AI & Policy Portfolio**: Combining IC and DHS program experience with secure cloud architecture, DevSecOps delivery, and AI governance frameworks
 
 ---
