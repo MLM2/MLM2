@@ -1,6 +1,6 @@
 Hi, I’m Mike McKeever  
 
-Technical Program Manager | National Security | Cloud & AI Delivery | TS/SCI CI Poly  
+Technical Program Manager | Agile Delivery | DevSecOps Modernization | National Security | Cloud & AI | TS/SCI CI Poly  
 
 I’m a Technical Program Manager with 20+ years delivering mission-critical systems across the Intelligence Community, DoD, and DHS, specializing in secure system modernization, Agile delivery, and cross-agency program execution.
 
