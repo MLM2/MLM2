@@ -62,7 +62,7 @@ Independent professional research on **Identity, Credential, and Access Manageme
 - DHS — program management, business analysis, Agile delivery, and interagency mission operations
 - PMP, CSM, SAFe Agilist, SAFe RTE Essentials, SAFe PO/PM, and ITIL Foundation
 - AWS architecture and cloud modernization professional development
-- **Active TS/SCI | CI Polygraph**
+- **Cleared professional supporting U.S. federal and intelligence community programs**
 
 ---
 
