@@ -12,6 +12,9 @@ This GitHub portfolio highlights work at the intersection of **federal technolog
 
 ## 🔍 Current Focus
 
+### Featured AI/ML Project
+
+**[AI/ML Mission Delivery Demo](https://github.com/MLM2/ai-ml-mission-delivery-demo)** — Independent educational prototype demonstrating synthetic-data classification using Python and scikit-learn, model evaluation, automated testing, and human-review considerations. Includes supporting Agile delivery, risk-management, and model documentation to illustrate how technical experimentation connects to responsible enterprise AI delivery.
 - 🔐 **ICAM, ABAC & Zero Trust**: Researching policy-driven authorization, attribute governance, access-control modernization, and enterprise implementation
 - ☁️ **Secure Cloud Architecture**: Developing AWS reference architectures and implementation prototypes for regulated and mission environments
 - 🧠 **AI Governance & Assurance**: Exploring AI risk, policy, assurance, and responsible adoption frameworks
@@ -44,6 +47,7 @@ Independent professional research on **Identity, Credential, and Access Manageme
 | Project | Description | Focus |
 |---|---|---|
 | [Federal ICAM, Zero Trust & Access Governance](https://github.com/MLM2/federal-icam-zero-trust) | Research and executive analysis of ABAC, ICAM, Zero Trust authorization, attribute governance, and enterprise modernization | ICAM, ABAC, Zero Trust |
+| [AI/ML Mission Delivery Demo](https://github.com/MLM2/ai-ml-mission-delivery-demo) | Synthetic-data AI/ML classification prototype with model evaluation, testing, human-review considerations, and delivery-governance artifacts | Python, scikit-learn, AI/ML, Agile Governance |
 | [Secure Mission Modernization Platform](https://github.com/MLM2/secure-mission-modernization-platform) | Secure mission-system modernization architecture and implementation analysis | Cloud, Modernization, Security |
 | [Secure Cloud Architecture Tradeoffs](https://github.com/MLM2/secure-cloud-architecture-tradeoffs) | Architecture tradeoff analysis for secure and regulated environments | AWS, Architecture, Security |
 | [Secure Data Pipeline (AWS)](https://github.com/MLM2/ic-secure-data-pipeline-aws) | Event-driven secure data-processing reference architecture | AWS, Lambda, S3 |
