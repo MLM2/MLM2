@@ -1,6 +1,6 @@
 # Hi, I’m Mike McKeever
 
-**Technical Program Manager | Federal Technology Modernization | Cloud & AI Transformation | ICAM & Zero Trust | Agile Delivery | National Security**
+**Technical Program & Delivery Leader | Federal Customer Success | Mission-Focused Software Delivery | Agile Transformation | Cloud & AI Modernization**
 
 I’m a Technical Program Manager with 20+ years supporting mission-critical programs across the Intelligence Community, DoD, and DHS, with experience spanning secure system modernization, enterprise requirements, Agile delivery, cross-agency integration, and technology governance.
 
@@ -66,7 +66,7 @@ Independent professional research on **Identity, Credential, and Access Manageme
 - DHS — program management, business analysis, Agile delivery, and interagency mission operations
 - PMP, CSM, SAFe Agilist, SAFe RTE Essentials, SAFe PO/PM, and ITIL Foundation
 - AWS architecture and cloud modernization professional development
-- **Cleared professional supporting U.S. federal and intelligence community programs**
+
 
 ---
 
